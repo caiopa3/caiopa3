@@ -1,16 +1,27 @@
-## Hi there 👋
+# 👋 Hello, I'm Caio Rangel  
 
-<!--
-**caiopa3/caiopa3** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Welcome to my profile! Here, you'll find information about me and what drives me in the tech world. 🚀  
 
-Here are some ideas to get you started:
+## 🌟 About Me  
+- 🎓 **Development Systems Student**  
+  Currently in my third year of technical high school, exploring the endless possibilities of coding.  
+- 🇧🇷 **Based in Brazil**  
+  Passionate about innovation and continuous learning!  
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 💡 What I'm Learning  
+- 📘 **Languages:** Python, SQL.  
+- 🛠 **Tools & Technologies:** Git, GitHub, MySQL.  
+- 🌐 Focused on system development and AI.  
+
+## 🎯 My Goals  
+- Build meaningful and impactful projects.  
+- Enhance my skills.  
+- Contribute to open-source projects.  
+
+## 📫 Get in Touch  
+- 🌐 GitHub: [github.com/caiopa3](https://github.com/caiopa3)  
+- ✉️ Email: caioraphaelrangel@gmail.com  
+- 🔗 LinkedIn: [Caio Raphael Rangel](https://www.linkedin.com/in/caio-raphael-rangel-794800306/)  
+- ✨ Discord: caiopa3  
+
+Feel free to explore and collaborate!

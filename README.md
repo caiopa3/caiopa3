@@ -23,5 +23,3 @@ Welcome to my profile! Here, you'll find information about me and what drives me
 - ✉️ Email: caioraphaelrangel@gmail.com  
 - 🔗 LinkedIn: [Caio Raphael Rangel](https://www.linkedin.com/in/caio-raphael-rangel-794800306/)  
 - ✨ Discord: caiopa3  
-
-Feel free to explore and collaborate!

@@ -5,7 +5,7 @@ Welcome to my profile! Here, you'll find information about me and what drives me
 ## 🌟 About Me  
 - 🎓 **Development Systems Student**  
   Currently in my third year of technical high school, exploring the endless possibilities of coding.  
-- 🇧🇷 **Based in Brazil**  
+- 🇧🇷 **Brazilian**  
   Passionate about innovation and continuous learning!  
 
 ## 💡 What I'm Learning  

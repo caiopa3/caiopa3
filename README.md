@@ -22,6 +22,8 @@ Welcome to my profile! Here, you'll find information about me and what drives me
 - 🌐 GitHub: [github.com/caiopa3](https://github.com/caiopa3)  
 - ✉️ Email: caioraphaelrangel@gmail.com  
 - 🔗 LinkedIn: [Caio Raphael Rangel](https://www.linkedin.com/in/caio-raphael-rangel-794800306/)  
-- ✨ Discord: caiopa3  
+- ✨ Discord: caiopa3
+
+## Contributions
 
 [![Contribution Stats](https://github-contribution-stats.vercel.app/api/?username=lorddashme)](https://github.com/LordDashMe/github-contribution-stats/)
